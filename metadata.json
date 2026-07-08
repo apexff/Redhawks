@@ -1,0 +1,6 @@
+{
+  "name": "Red Hawks",
+  "description": "The official Red Hawks Esports mobile application. Access live match schedules, rosters, achievements, and the official blogger website easily on the go.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Shield / Wing Design -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,22 L82,34 L82,58 C82,74 70,88 54,92 C38,88 26,74 26,58 L26,34 Z" />
+    
+    <!-- Outer Wing Accents Left -->
+    <path
+        android:fillColor="#991B1B"
+        android:pathData="M24,40 L12,45 L16,65 L24,55 Z" />
+    <path
+        android:fillColor="#7F1D1D"
+        android:pathData="M22,58 L10,63 L14,75 L22,68 Z" />
+
+    <!-- Outer Wing Accents Right -->
+    <path
+        android:fillColor="#991B1B"
+        android:pathData="M84,40 L96,45 L92,65 L84,55 Z" />
+    <path
+        android:fillColor="#7F1D1D"
+        android:pathData="M86,58 L98,63 L94,75 L86,68 Z" />
+
+    <!-- Inner Shield Hawk Shadow -->
+    <path
+        android:fillColor="#3B0707"
+        android:pathData="M54,28 L76,38 L76,56 C76,68 66,80 54,84 C42,80 32,68 32,56 L32,38 Z" />
+        
+    <!-- Stylized Red Hawk head / V shape in the center -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,40 L64,55 L58,57 L54,50 L50,57 L46,55 Z" />
+    <path
+        android:fillColor="#FCA5A5"
+        android:pathData="M54,54 L60,63 L54,72 L48,63 Z" />
+</vector>
